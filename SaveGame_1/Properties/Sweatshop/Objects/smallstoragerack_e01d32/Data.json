@@ -1,0 +1,22 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "e01d3223-b586-481c-bc85-ee7c07fe6d6a",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"smallstoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 1.0,
+        "y": 6.0
+    },
+    "Rotation": 90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":2.5071845054626467}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"speedgrow\",\"Quantity\":6}"
+        ]
+    }
+}

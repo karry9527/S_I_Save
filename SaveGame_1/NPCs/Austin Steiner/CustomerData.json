@@ -2,19 +2,19 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.20000000298023225,
+    "Dependence": 0.5344000458717346,
     "PurchaseableProducts": [
-        "ogkush"
+        "sourdiesel"
     ],
     "ProductAffinities": [
-        0.9299999475479126,
+        1.0,
         -0.6600000262260437,
         0.15000000596046449
     ],
-    "TimeSinceLastDealCompleted": 699,
-    "TimeSinceLastDealOffered": 804,
-    "OfferedDeals": 3,
-    "CompletedDeals": 2,
+    "TimeSinceLastDealCompleted": 402,
+    "TimeSinceLastDealOffered": 425,
+    "OfferedDeals": 14,
+    "CompletedDeals": 11,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 5,
+        "elapsedDays": 16,
         "time": 830
     },
-    "TimeSincePlayerApproached": 5274,
-    "TimeSinceInstantDealOffered": 5274,
+    "TimeSincePlayerApproached": 16375,
+    "TimeSinceInstantDealOffered": 16375,
     "HasBeenRecommended": false
 }

@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "4a006b8f-6bda-48a6-aa80-8b8651d464e8",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop behind the casino",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f14",
+            "Name": "Behind Casino",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "f5614c42-2c74-42d5-bee2-025e84718792"
+}

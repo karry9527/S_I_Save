@@ -2,43 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 0,
+    "ConversationIndex": 6,
     "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -765052821,
-            "Text": "Hey, if you got 1x OG Kush I'll pay <color=#46CB4F>$40</color> for it. Deal?",
+            "MessageID": -937361182,
+            "Text": "Hey, if you got 2x Green Crack I'll pay <color=#46CB4F>$115</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1997872283,
+            "Text": "How about 2x Green Crack for $135?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 201190305,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -888634510,
+            "Text": "Morning",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1591738912,
-            "Text": "nvm",
+            "MessageID": 1561349347,
+            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -278267690,
-            "Text": "You got 1x OG Kush? I'll pay <color=#46CB4F>$50</color> for it",
+            "MessageID": -622560410,
+            "Text": "You got 2x Green Crack? I'll pay <color=#46CB4F>$130</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1786181249,
+            "Text": "How about 2x Green Crack for $140?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1691701155,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1859254229,
+            "Text": "Morning",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 2048095359,
-            "Text": "Don't worry about it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 998349489,
-            "Text": "Hello, I'm after 1x OG Kush. I can pay <color=#46CB4F>$50</color> for it.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 357478462,
-            "Text": "Actually, nevermind",
+            "MessageID": 311392689,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

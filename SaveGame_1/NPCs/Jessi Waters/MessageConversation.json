@@ -2,25 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 8,
-    "Read": true,
+    "ConversationIndex": 15,
+    "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -529684391,
-            "Text": "I'm after 3x OG Kush. I can pay <color=#46CB4F>$140</color> for it Deal??",
+            "MessageID": -471989704,
+            "Text": "U got 5x Green Crack??? I'll pay <color=#46CB4F>$285</color> for it. DEAL?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -41820638,
-            "Text": "Yes",
+            "MessageID": 39808443,
+            "Text": "How about 5x Green Crack for $305?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1651810211,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -703378193,
+            "Text": "Morning",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1492153079,
-            "Text": "Good!! I'll see u <b>next to Bud's bar</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": -809776744,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1038128698,
+            "Text": "I'm after 5x Sour Diesel. I can pay <color=#46CB4F>$300</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1991236102,
+            "Text": "How about 5x Sour Diesel for $330?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -870997068,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1510427906,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 145314553,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

@@ -5,7 +5,7 @@
     "PropertyCode": "motelroom",
     "IsOwned": true,
     "SwitchStates": [
-        false
+        true
     ],
     "ToggleableStates": [
         true

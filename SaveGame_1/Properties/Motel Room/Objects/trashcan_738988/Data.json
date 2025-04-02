@@ -12,11 +12,7 @@
     },
     "Rotation": -90,
     "ContentData": {
-        "TrashIDs": [
-            "plantscrap"
-        ],
-        "TrashQuantities": [
-            5
-        ]
+        "TrashIDs": [],
+        "TrashQuantities": []
     }
 }

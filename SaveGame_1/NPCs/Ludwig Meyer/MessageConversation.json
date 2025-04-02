@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 11,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1007119988,
+            "Text": "How about 2x Green Crack for $140?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1904513091,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1289093429,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1119150420,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 922438005,
+            "Text": "Hey, if you got 2x Granddaddy Purple I'll pay <color=#46CB4F>$145</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 562102127,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1231310434,
+            "Text": "Great, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 953717372,
+            "Text": "Hey, can I get 2x Granddaddy Purple? I'll pay <color=#46CB4F>$145</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2111808897,
+            "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2061910261,
+            "Text": "nvm",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

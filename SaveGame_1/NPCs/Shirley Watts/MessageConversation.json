@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 8,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -2018898236,
+            "Text": "I need a dead drop:\n8x Low-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -718829116,
+            "Text": "Working on it. Should be ready in around 4 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1987068150,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1394961543,
+            "Text": "I've received $480 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1384556427,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 698975773,
+            "Text": "Your drop is ready. Grab it in the alleyway behind top tattoo",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -902234349,
+            "Text": "I need a dead drop:\n9x Low-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1500973949,
+            "Text": "Copy. I'll message you when it's ready in about 4 hours 30 min.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1811562043,
+            "Text": "I've received $86 cash from you. Your debt is now $454",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2057549944,
+            "Text": "Hey, that drop is ready in the alleyway behind the grocery store",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

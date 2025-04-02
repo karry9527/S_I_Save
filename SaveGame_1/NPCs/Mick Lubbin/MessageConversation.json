@@ -2,61 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 1,
+    "ConversationIndex": 5,
     "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1825770376,
-            "Text": "Hey, can I get 3x OG Kush? I'll pay <color=#46CB4F>$105</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1006841417,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -605970665,
-            "Text": "You got 2x OG Kush? I'll pay <color=#46CB4F>$85</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1467663093,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 366022711,
-            "Text": "Hey, if you got 2x OG Kush I'll pay <color=#46CB4F>$85</color> for it. Deal?",
+            "MessageID": -332522337,
+            "Text": "Hey, if you got 4x Green Crack I'll pay <color=#46CB4F>$200</color> for it. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 2129285783,
-            "Text": "How about 2x OG Kush for $105?",
+            "MessageID": 937377065,
+            "Text": "How about 4x Green Crack for $230?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 871857864,
-            "Text": "Ok. What time you wanna meet?",
+            "MessageID": -93980590,
+            "Text": "Alright then. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1255381710,
-            "Text": "Night",
+            "MessageID": -110804894,
+            "Text": "Morning",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -404143653,
-            "Text": "Great, I'll meet you <b>at the north waterfront</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": 1269590659,
+            "Text": "Great, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -716209118,
+            "Text": "Hey, I need 3x Granddaddy Purple. I'll pay <color=#46CB4F>$185</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 86460845,
+            "Text": "How about 3x Granddaddy Purple for $210?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1702708195,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 114364271,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -934030555,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

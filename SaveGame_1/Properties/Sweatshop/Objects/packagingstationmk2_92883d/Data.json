@@ -1,0 +1,21 @@
+{
+    "DataType": "PackagingStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "92883d70-9e57-4c6d-b4f3-9e1c0b8ba483",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"packagingstationmk2\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 17.0,
+        "y": 6.0
+    },
+    "Rotation": -90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"baggie\",\"Quantity\":1}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"granddaddypurple\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

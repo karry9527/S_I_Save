@@ -2,41 +2,49 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.10000000149011612,
+    "Dependence": 0.2247999757528305,
     "PurchaseableProducts": [
-        "ogkush"
+        "greencrack",
+        "granddaddypurple",
+        "sourdiesel"
     ],
     "ProductAffinities": [
         1.0,
         0.6600000262260437,
         0.25999999046325686
     ],
-    "TimeSinceLastDealCompleted": 1251,
-    "TimeSinceLastDealOffered": 1461,
-    "OfferedDeals": 2,
-    "CompletedDeals": 1,
-    "IsContractOffered": false,
+    "TimeSinceLastDealCompleted": 996,
+    "TimeSinceLastDealOffered": 75,
+    "OfferedDeals": 10,
+    "CompletedDeals": 9,
+    "IsContractOffered": true,
     "OfferedContract": {
-        "Payment": 0.0,
+        "Payment": 400.0,
         "Products": {
-            "entries": []
+            "entries": [
+                {
+                    "ProductID": "greencrack",
+                    "Quality": 0,
+                    "Quantity": 6
+                }
+            ]
         },
-        "DeliveryLocationGUID": "",
+        "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
         "DeliveryWindow": {
-            "IsEnabled": false,
-            "WindowStartTime": 1200,
-            "WindowEndTime": 1800
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
         },
-        "Expires": false,
-        "ExpiresAfter": 0,
+        "Expires": true,
+        "ExpiresAfter": 1,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 4,
+        "elapsedDays": 16,
         "time": 1420
     },
-    "TimeSincePlayerApproached": 1005274,
-    "TimeSinceInstantDealOffered": 1005274,
+    "TimeSincePlayerApproached": 1016375,
+    "TimeSinceInstantDealOffered": 1016375,
     "HasBeenRecommended": false
 }

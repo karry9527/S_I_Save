@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 7,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -457876060,
+            "Text": "Hey, I need 4x Granddaddy Purple. I'll pay <color=#46CB4F>$275</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 859470427,
+            "Text": "How about 4x Granddaddy Purple for $295?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -284739891,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 110687241,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2126778729,
+            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1667154770,
+            "Text": "Hello, I'm after 4x Sour Diesel. I can pay <color=#46CB4F>$255</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1535489532,
+            "Text": "How about 4x Sour Diesel for $285?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1880701719,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 706596328,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -441992526,
+            "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

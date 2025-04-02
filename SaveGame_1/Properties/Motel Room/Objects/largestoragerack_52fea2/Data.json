@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "52fea27a-1912-4422-ae7f-9132fac644a3",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "efc3aaed-d40e-4075-8fc5-79664c851628",
+    "OriginCoordinate": {
+        "x": 9.0,
+        "y": 2.0
+    },
+    "Rotation": -90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"longlifesoil\",\"Quantity\":10}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashbag\",\"Quantity\":3}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"speedgrow\",\"Quantity\":1}",
+            "{\"DataType\":\"WateringCanData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"wateringcan\",\"Quantity\":1,\"CurrentFillAmount\":5.878376483917236}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"largestoragerack\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"baggie\",\"Quantity\":20}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    }
+}

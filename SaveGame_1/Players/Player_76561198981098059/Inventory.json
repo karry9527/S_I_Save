@@ -1,13 +1,13 @@
 {
     "Items": [
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"baseballbat\",\"Quantity\":1}",
+        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[\"cigarette\",\"glassbottle\",\"energydrink\",\"usedcigarette\",\"cigarettebox\",\"coffeecup\",\"crushedcuke\",\"waterbottle\"],\"TrashQuantities\":[1,1,1,1,1,1,3,2]}}",
+        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[\"cigarette\",\"addy\"],\"TrashQuantities\":[1,1]}}",
+        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[],\"TrashQuantities\":[]}}",
+        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[],\"TrashQuantities\":[]}}",
         "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[],\"TrashQuantities\":[]}}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":14.0}"
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"baseballbat\",\"Quantity\":1}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trimmers\",\"Quantity\":1}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":835.0}"
     ]
 }

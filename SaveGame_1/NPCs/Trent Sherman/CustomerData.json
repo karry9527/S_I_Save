@@ -2,19 +2,19 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.25,
+    "Dependence": 0.4692000150680542,
     "PurchaseableProducts": [
-        "ogkush"
+        "greencrack"
     ],
     "ProductAffinities": [
-        0.6790000200271606,
+        1.0,
         0.22599999606609345,
         0.9020000100135803
     ],
-    "TimeSinceLastDealCompleted": 1005274,
-    "TimeSinceLastDealOffered": 1005274,
-    "OfferedDeals": 0,
-    "CompletedDeals": 0,
+    "TimeSinceLastDealCompleted": 608,
+    "TimeSinceLastDealOffered": 684,
+    "OfferedDeals": 8,
+    "CompletedDeals": 7,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -33,10 +33,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 15,
+        "time": 2015
     },
-    "TimeSincePlayerApproached": 1005274,
-    "TimeSinceInstantDealOffered": 1005274,
+    "TimeSincePlayerApproached": 1016375,
+    "TimeSinceInstantDealOffered": 1016375,
     "HasBeenRecommended": false
 }

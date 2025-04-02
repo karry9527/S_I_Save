@@ -2,19 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 9,
-    "Read": true,
+    "ConversationIndex": 10,
+    "Read": false,
     "MessageHistory": [
         {
-            "Sender": 1,
-            "MessageID": 138236155,
-            "Text": "Hey, if you got 3x OG Kush I'll pay <color=#46CB4F>$160</color> for it. Deal?",
+            "Sender": 0,
+            "MessageID": 2128003801,
+            "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -994286670,
+            "MessageID": -1551269356,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -35455238,
+            "Text": "Hello, I'm after 3x Sour Diesel. I can pay <color=#46CB4F>$210</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 485866815,
+            "Text": "Actually, nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 746062266,
+            "Text": "Hello, I'm after 3x Sour Diesel. I can pay <color=#46CB4F>$210</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 658335049,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 106721819,
+            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1689728684,
+            "Text": "You got 3x Green Crack? I'll pay <color=#46CB4F>$180</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2037887575,
             "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -999296019,
+            "Text": "Don't worry about it",
             "EndOfChain": true
         }
     ],

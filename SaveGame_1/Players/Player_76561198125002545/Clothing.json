@@ -1,13 +1,13 @@
 {
     "Items": [
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"sneakers\",\"Quantity\":1,\"Color\":4}",
         "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"jorts\",\"Quantity\":1,\"Color\":4}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"collarjacket\",\"Quantity\":1,\"Color\":12}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"legendsunglasses\",\"Quantity\":1,\"Color\":4}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}"
     ]

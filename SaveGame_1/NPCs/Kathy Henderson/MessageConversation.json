@@ -2,49 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 3,
+    "ConversationIndex": 14,
     "Read": false,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -812303296,
-            "Text": "Hey, I need 3x OG Kush. I'll pay <color=#46CB4F>$130</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1860241862,
-            "Text": "Actually, nevermind",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 207892825,
-            "Text": "You got 3x OG Kush? I'll pay <color=#46CB4F>$130</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1322869060,
-            "Text": "nvm",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -485287767,
-            "Text": "Hey, can I get 3x OG Kush? I'll pay <color=#46CB4F>$155</color>",
+            "MessageID": -2053085764,
+            "Text": "Hello, I'm after 4x Sour Diesel. I can pay <color=#46CB4F>$265</color> for it.",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -400051610,
-            "Text": "Yes",
+            "MessageID": -1903145642,
+            "Text": "How about 4x Sour Diesel for $270?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -829482431,
+            "Text": "I guess that's fine. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1640159823,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1393758822,
-            "Text": "Ok, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": -837553950,
+            "Text": "Alright cool, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -318439986,
+            "Text": "Hello, I'm after 4x Green Crack. I can pay <color=#46CB4F>$255</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -668120565,
+            "Text": "How about 4x Green Crack for $275?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1683261031,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -49696295,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 358840522,
+            "Text": "Alright cool, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

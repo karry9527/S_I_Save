@@ -4,8 +4,8 @@
     "GameVersion": "0.3.3f14",
     "ID": "albert_hoover",
     "timeSinceMeetingStart": -1,
-    "timeSinceLastMeetingEnd": 7063,
-    "debt": 280.0,
+    "timeSinceLastMeetingEnd": 3383,
+    "debt": 0.0,
     "minsUntilDeadDropReady": -1,
     "deaddropItems": [],
     "debtReminderSent": false

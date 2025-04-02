@@ -1,0 +1,29 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "91125460-e2c4-4d46-af72-98688eae9534",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"growtent\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 11.0,
+        "y": 6.0
+    },
+    "Rotation": -90,
+    "SoilID": "extralonglifesoil",
+    "SoilLevel": 20.0,
+    "RemainingSoilUses": 2,
+    "WaterLevel": 3.2500081062316896,
+    "AppliedAdditives": [],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "SeedID": "greencrackseed",
+        "GrowthProgress": 0.4148139953613281,
+        "YieldLevel": 1.0,
+        "QualityLevel": 0.5,
+        "ActiveBuds": []
+    }
+}

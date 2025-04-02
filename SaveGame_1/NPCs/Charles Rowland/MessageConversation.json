@@ -1,0 +1,84 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 1,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1569922491,
+            "Text": "How about 3x Green Crack for $205?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1446243161,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 918966331,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2055052395,
+            "Text": "Alright cool, I'll meet you <b>behind the western Gas Mart</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -101320434,
+            "Text": "Hey, I need 4x Green Crack. I'll pay <color=#46CB4F>$235</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 322521926,
+            "Text": "How about 4x Green Crack for $275?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 15590538,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 541782581,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -48778747,
+            "Text": "Ok, I'll meet you <b>under the west bridge</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -593986673,
+            "Text": "Hey, I need 4x Granddaddy Purple. I'll pay <color=#46CB4F>$305</color>. Deal?",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [
+        {
+            "Text": "Deal",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
+    "IsHidden": false
+}

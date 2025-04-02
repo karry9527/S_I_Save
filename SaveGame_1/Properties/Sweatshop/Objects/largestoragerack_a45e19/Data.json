@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "a45e1907-e8dc-4575-8e76-07954ce05668",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 4.0,
+        "y": 10.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"greencrack\",\"Quantity\":19,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"extralonglifesoil\",\"Quantity\":1}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"sourdiesel\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"dreamslime\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"longlifesoil\",\"Quantity\":2}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"lowqualitypseudo\",\"Quantity\":7,\"Quality\":\"Poor\"}"
+        ]
+    }
+}

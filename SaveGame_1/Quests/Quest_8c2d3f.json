@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "8c2d3fab-286d-4adb-9b8d-c6594240b343",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop on the pawn shop west wall",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f14",
+            "Name": "Pawn shop west wall",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "fde97bca-d21a-476c-bf03-b00768a45030"
+}

@@ -76,7 +76,7 @@
             "DataType": "QuestEntryData",
             "DataVersion": 0,
             "GameVersion": "0.3.3f14",
-            "Name": "Wait for the dead drop (1 mins)",
+            "Name": "Wait for the dead drop",
             "State": 2
         },
         {

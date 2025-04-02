@@ -6,17 +6,55 @@
         "ogkush",
         "sourdiesel",
         "greencrack",
-        "granddaddypurple"
+        "granddaddypurple",
+        "aspendeath",
+        "stinkycheese",
+        "gorillastink",
+        "dreamslime",
+        "purplebud"
     ],
     "ListedProducts": [
-        "ogkush"
+        "greencrack",
+        "granddaddypurple",
+        "sourdiesel"
     ],
     "ActiveMixOperation": {
         "ProductID": "",
         "IngredientID": ""
     },
     "IsMixComplete": false,
-    "MixRecipes": [],
+    "MixRecipes": [
+        {
+            "Product": "banana",
+            "Mixer": "greencrack",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "granddaddypurple",
+            "Output": "stinkycheese"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "granddaddypurple",
+            "Output": "granddaddypurple"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "granddaddypurple",
+            "Output": "gorillastink"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "granddaddypurple",
+            "Output": "dreamslime"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "granddaddypurple",
+            "Output": "purplebud"
+        }
+    ],
     "ProductPrices": [
         {
             "String": "ogkush",
@@ -24,15 +62,15 @@
         },
         {
             "String": "sourdiesel",
-            "Int": 40
+            "Int": 55
         },
         {
             "String": "greencrack",
-            "Int": 43
+            "Int": 55
         },
         {
             "String": "granddaddypurple",
-            "Int": 44
+            "Int": 60
         },
         {
             "String": "meth",
@@ -41,9 +79,31 @@
         {
             "String": "cocaine",
             "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 57
+        },
+        {
+            "String": "stinkycheese",
+            "Int": 54
+        },
+        {
+            "String": "gorillastink",
+            "Int": 52
+        },
+        {
+            "String": "dreamslime",
+            "Int": 60
+        },
+        {
+            "String": "purplebud",
+            "Int": 51
         }
     ],
     "FavouritedProducts": [
-        "ogkush"
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple"
     ]
 }
