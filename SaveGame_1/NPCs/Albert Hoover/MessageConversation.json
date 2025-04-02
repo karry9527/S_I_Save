@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 2,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1546752705,
+            "Text": "Hey, that drop is ready behind the western Gas-Mart",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 764498671,
+            "Text": "I've received $150 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1238414712,
+            "Text": "I need a dead drop:\n5x OG Kush Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 557628156,
+            "Text": "Working on it. Should be ready in around 2 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 809408749,
+            "Text": "Hey, that drop is ready behind the western Gas-Mart",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1878848699,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1396152679,
+            "Text": "I've received $150 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -521101086,
+            "Text": "I need a dead drop:\n8x Sour Diesel Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1416206915,
+            "Text": "Working on it. Should be ready in around 4 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 511991020,
+            "Text": "Your drop is ready. Grab it in the alleyway behind top tattoo",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

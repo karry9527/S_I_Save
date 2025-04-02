@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 11,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -220081404,
+            "Text": "I NEED 8x OG Kush. I GOT <color=#46CB4F>$370</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1458231012,
+            "Text": "Nevermind!",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1649489625,
+            "Text": "I'm after 8x OG Kush. I can pay <color=#46CB4F>$370</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1144045797,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -204877995,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

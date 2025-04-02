@@ -1,0 +1,65 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 1,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1825770376,
+            "Text": "Hey, can I get 3x OG Kush? I'll pay <color=#46CB4F>$105</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1006841417,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -605970665,
+            "Text": "You got 2x OG Kush? I'll pay <color=#46CB4F>$85</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1467663093,
+            "Text": "nvm",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 366022711,
+            "Text": "Hey, if you got 2x OG Kush I'll pay <color=#46CB4F>$85</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2129285783,
+            "Text": "How about 2x OG Kush for $105?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 871857864,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1255381710,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -404143653,
+            "Text": "Great, I'll meet you <b>at the north waterfront</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
