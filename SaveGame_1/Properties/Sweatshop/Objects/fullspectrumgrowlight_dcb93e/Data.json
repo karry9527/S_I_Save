@@ -1,0 +1,43 @@
+{
+    "DataType": "ProceduralGridItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "dcb93e8e-67e9-4bd7-be62-10769781ef23",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f14\",\n    \"ID\": \"fullspectrumgrowlight\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 50,
+    "Rotation": 0,
+    "FootprintMatches": [
+        {
+            "TileOwnerGUID": "e7f17dc7-c409-4c6b-834c-5d3eadf9b2c2",
+            "TileIndex": 2,
+            "FootprintCoordinate": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "TileOwnerGUID": "e7f17dc7-c409-4c6b-834c-5d3eadf9b2c2",
+            "TileIndex": 1,
+            "FootprintCoordinate": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "TileOwnerGUID": "e7f17dc7-c409-4c6b-834c-5d3eadf9b2c2",
+            "TileIndex": 3,
+            "FootprintCoordinate": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "TileOwnerGUID": "e7f17dc7-c409-4c6b-834c-5d3eadf9b2c2",
+            "TileIndex": 0,
+            "FootprintCoordinate": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

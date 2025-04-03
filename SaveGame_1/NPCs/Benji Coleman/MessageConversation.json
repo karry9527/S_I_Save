@@ -1,0 +1,17 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 11,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1986621256,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

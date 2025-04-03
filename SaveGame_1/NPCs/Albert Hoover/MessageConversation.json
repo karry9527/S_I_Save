@@ -2,45 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 4,
-    "Read": false,
+    "ConversationIndex": 0,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 607990243,
-            "Text": "I've received $400 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1489498580,
-            "Text": "Your drop is ready. Grab it behind the casino",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 2041207755,
-            "Text": "I need a dead drop:\n10x Green Crack Seed",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1186270757,
-            "Text": "Copy. I'll message you when it's ready in about 5 hours.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 187182932,
-            "Text": "I've received $400 cash from you. Your debt is now paid off.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 120914782,
-            "Text": "Hey, that drop is ready under the west bridge",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": 73806462,
@@ -63,6 +27,42 @@
             "Sender": 1,
             "MessageID": -1193652924,
             "Text": "Your drop is ready. Grab it in the alleyway behind top tattoo",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -940844984,
+            "Text": "I need a dead drop:\n10x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -893063166,
+            "Text": "Working on it. Should be ready in around 5 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1016313357,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -780114452,
+            "Text": "I've received $450 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -908583651,
+            "Text": "The drop is ready. You can find it behind the motel office",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1416044372,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
             "EndOfChain": true
         }
     ],

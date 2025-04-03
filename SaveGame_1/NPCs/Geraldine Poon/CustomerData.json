@@ -2,49 +2,42 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.2247999757528305,
+    "Dependence": 0.5288999676704407,
     "PurchaseableProducts": [
-        "greencrack",
-        "granddaddypurple",
-        "sourdiesel"
+        "dreamslime",
+        "stinkycheese"
     ],
     "ProductAffinities": [
         1.0,
         0.6600000262260437,
         0.25999999046325686
     ],
-    "TimeSinceLastDealCompleted": 996,
-    "TimeSinceLastDealOffered": 75,
-    "OfferedDeals": 10,
-    "CompletedDeals": 9,
-    "IsContractOffered": true,
+    "TimeSinceLastDealCompleted": 978,
+    "TimeSinceLastDealOffered": 1133,
+    "OfferedDeals": 17,
+    "CompletedDeals": 16,
+    "IsContractOffered": false,
     "OfferedContract": {
-        "Payment": 400.0,
+        "Payment": 0.0,
         "Products": {
-            "entries": [
-                {
-                    "ProductID": "greencrack",
-                    "Quality": 0,
-                    "Quantity": 6
-                }
-            ]
+            "entries": []
         },
-        "DeliveryLocationGUID": "42b11b9f-8460-45fc-a677-a6ff29dd8561",
+        "DeliveryLocationGUID": "",
         "DeliveryWindow": {
-            "IsEnabled": true,
-            "WindowStartTime": 0,
-            "WindowEndTime": 0
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
         },
-        "Expires": true,
-        "ExpiresAfter": 1,
+        "Expires": false,
+        "ExpiresAfter": 0,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 16,
+        "elapsedDays": 23,
         "time": 1420
     },
-    "TimeSincePlayerApproached": 1016375,
-    "TimeSinceInstantDealOffered": 1016375,
+    "TimeSincePlayerApproached": 1025315,
+    "TimeSinceInstantDealOffered": 1025315,
     "HasBeenRecommended": false
 }

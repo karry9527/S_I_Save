@@ -2,83 +2,70 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "ConversationIndex": 0,
+    "ConversationIndex": 4,
     "Read": false,
     "MessageHistory": [
         {
+            "Sender": 1,
+            "MessageID": -390262416,
+            "Text": "Need me 6x Stinky Cheese! I'll pay <color=#46CB4F>$555</color> yeah??",
+            "EndOfChain": true
+        },
+        {
             "Sender": 0,
-            "MessageID": 974856116,
-            "Text": "How about 6x Granddaddy Purple for $480?",
+            "MessageID": 724829107,
+            "Text": "How about 6x Stinky Cheese for $585?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 2062305300,
-            "Text": "Ok whatever. What time?",
+            "MessageID": 1696955081,
+            "Text": "hmmmmm FINE. When?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -29375161,
-            "Text": "Afternoon",
+            "MessageID": -1741328980,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 175489492,
-            "Text": "Good!! I'll see u <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": 288459837,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1239888950,
-            "Text": "U got 6x Granddaddy Purple??? I'll pay <color=#46CB4F>$460</color> for it. DEAL?",
+            "MessageID": -933163103,
+            "Text": "U got 6x Stinky Cheese??? I'll pay <color=#46CB4F>$555</color> for it. DEAL?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 727462384,
-            "Text": "How about 6x Granddaddy Purple for $480?",
+            "MessageID": -172717830,
+            "Text": "How about 6x Stinky Cheese for $595?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1898594055,
-            "Text": "OK FINE! What time????",
+            "MessageID": 1789644900,
+            "Text": "Arghh fine. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -602734885,
-            "Text": "Afternoon",
+            "MessageID": -1882110569,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1243549087,
-            "Text": "Good!! I'll see u <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2049956643,
-            "Text": "Need me 6x Green Crack! I'll pay <color=#46CB4F>$400</color> yeah??",
+            "MessageID": -821810004,
+            "Text": "Good!! I'll see u <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         }
     ],
-    "ActiveResponses": [
-        {
-            "Text": "Yep",
-            "Label": "ACCEPT_CONTRACT"
-        },
-        {
-            "Text": "[Counter-offer]",
-            "Label": "COUNTEROFFER"
-        },
-        {
-            "Text": "Not right now",
-            "Label": "REJECT_CONTRACT"
-        }
-    ],
+    "ActiveResponses": [],
     "IsHidden": false
 }

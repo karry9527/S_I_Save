@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "95a1f71f-930c-4367-9246-0e475b5978bd",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop behind the Crimson Canary",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f14",
+            "Name": "Behind Crimson Canary",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "51e8f8ec-adcb-4800-8020-55cc24f9ba40"
+}

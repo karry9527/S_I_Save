@@ -2,21 +2,20 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.0,
+    "Dependence": 0.030000001192092897,
     "PurchaseableProducts": [
-        "greencrack",
-        "granddaddypurple",
-        "sourdiesel"
+        "dreamslime",
+        "stinkycheese"
     ],
     "ProductAffinities": [
-        0.6463172435760498,
+        0.7325672507286072,
         -0.7910830974578857,
         0.19469010829925538
     ],
-    "TimeSinceLastDealCompleted": 1016376,
-    "TimeSinceLastDealOffered": 1016376,
-    "OfferedDeals": 0,
-    "CompletedDeals": 0,
+    "TimeSinceLastDealCompleted": 1917,
+    "TimeSinceLastDealOffered": 2223,
+    "OfferedDeals": 1,
+    "CompletedDeals": 1,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -35,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 22,
+        "time": 1345
     },
-    "TimeSincePlayerApproached": 1016376,
-    "TimeSinceInstantDealOffered": 1016376,
+    "TimeSincePlayerApproached": 1025317,
+    "TimeSinceInstantDealOffered": 1025317,
     "HasBeenRecommended": false
 }

@@ -1,13 +1,13 @@
 {
     "Items": [
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"skateboard\",\"Quantity\":1}",
-        "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[\"seedvial\"],\"TrashQuantities\":[3]}}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"granddaddypurpleseed\",\"Quantity\":5}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"potsprinkler\",\"Quantity\":1}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"ogkush\",\"Quantity\":3,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"granddaddypurple\",\"Quantity\":17,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"dreamslime\",\"Quantity\":12,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
         "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
-        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":7063.7001953125}"
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"stinkycheese\",\"Quantity\":2,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"meth\",\"Quantity\":10,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
+        "{\"DataType\":\"CashData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"cash\",\"Quantity\":1,\"CashBalance\":10495.142578125}"
     ]
 }

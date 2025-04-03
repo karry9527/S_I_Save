@@ -8,15 +8,30 @@
         "greencrack",
         "granddaddypurple",
         "aspendeath",
-        "stinkycheese",
-        "gorillastink",
         "dreamslime",
-        "purplebud"
+        "gorillastink",
+        "purplebud",
+        "stinkycheese",
+        "pinksplooge",
+        "hairyexpress",
+        "stinkypunch",
+        "sweetdurkle",
+        "ogghost",
+        "islandcake",
+        "islandhaze",
+        "dreamdurkle",
+        "stinkydick",
+        "slimyshart",
+        "bananabud",
+        "deathass",
+        "islandbud",
+        "extremepunch",
+        "aspensmegma",
+        "meth"
     ],
     "ListedProducts": [
-        "greencrack",
-        "granddaddypurple",
-        "sourdiesel"
+        "dreamslime",
+        "stinkycheese"
     ],
     "ActiveMixOperation": {
         "ProductID": "",
@@ -25,34 +40,109 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "banana",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "banana",
             "Output": "aspendeath"
         },
         {
-            "Product": "donut",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "donut",
             "Output": "stinkycheese"
         },
         {
-            "Product": "flumedicine",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "flumedicine",
             "Output": "granddaddypurple"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "paracetamol",
             "Output": "gorillastink"
         },
         {
-            "Product": "viagra",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "viagra",
             "Output": "dreamslime"
         },
         {
-            "Product": "banana",
-            "Mixer": "granddaddypurple",
+            "Product": "granddaddypurple",
+            "Mixer": "banana",
             "Output": "purplebud"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "greencrack",
+            "Output": "pinksplooge"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "pinksplooge",
+            "Output": "hairyexpress"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "hairyexpress",
+            "Output": "stinkypunch"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "stinkypunch",
+            "Output": "sweetdurkle"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "gorillastink",
+            "Output": "ogghost"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "greencrack",
+            "Output": "islandcake"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "islandcake",
+            "Output": "islandhaze"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "islandhaze",
+            "Output": "dreamdurkle"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "dreamdurkle",
+            "Output": "stinkydick"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "stinkydick",
+            "Output": "slimyshart"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "stinkycheese",
+            "Output": "bananabud"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "bananabud",
+            "Output": "deathass"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "deathass",
+            "Output": "islandbud"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "islandbud",
+            "Output": "extremepunch"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "granddaddypurple",
+            "Output": "aspensmegma"
         }
     ],
     "ProductPrices": [
@@ -74,7 +164,7 @@
         },
         {
             "String": "meth",
-            "Int": 70
+            "Int": 91
         },
         {
             "String": "cocaine",
@@ -85,25 +175,84 @@
             "Int": 57
         },
         {
-            "String": "stinkycheese",
-            "Int": 54
+            "String": "dreamslime",
+            "Int": 75
         },
         {
             "String": "gorillastink",
-            "Int": 52
-        },
-        {
-            "String": "dreamslime",
-            "Int": 60
+            "Int": 65
         },
         {
             "String": "purplebud",
             "Int": 51
+        },
+        {
+            "String": "stinkycheese",
+            "Int": 72
+        },
+        {
+            "String": "pinksplooge",
+            "Int": 65
+        },
+        {
+            "String": "hairyexpress",
+            "Int": 90
+        },
+        {
+            "String": "stinkypunch",
+            "Int": 78
+        },
+        {
+            "String": "sweetdurkle",
+            "Int": 78
+        },
+        {
+            "String": "ogghost",
+            "Int": 60
+        },
+        {
+            "String": "islandcake",
+            "Int": 59
+        },
+        {
+            "String": "islandhaze",
+            "Int": 74
+        },
+        {
+            "String": "dreamdurkle",
+            "Int": 82
+        },
+        {
+            "String": "stinkydick",
+            "Int": 91
+        },
+        {
+            "String": "slimyshart",
+            "Int": 101
+        },
+        {
+            "String": "bananabud",
+            "Int": 91
+        },
+        {
+            "String": "deathass",
+            "Int": 77
+        },
+        {
+            "String": "islandbud",
+            "Int": 85
+        },
+        {
+            "String": "extremepunch",
+            "Int": 85
+        },
+        {
+            "String": "aspensmegma",
+            "Int": 52
         }
     ],
     "FavouritedProducts": [
-        "sourdiesel",
-        "greencrack",
-        "granddaddypurple"
+        "dreamslime",
+        "stinkycheese"
     ]
 }

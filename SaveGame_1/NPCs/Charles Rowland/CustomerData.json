@@ -2,49 +2,42 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.3f14",
-    "Dependence": 0.2248000055551529,
+    "Dependence": 0.29580000042915347,
     "PurchaseableProducts": [
-        "greencrack",
-        "granddaddypurple",
-        "sourdiesel"
+        "dreamslime",
+        "stinkycheese"
     ],
     "ProductAffinities": [
-        0.9192249774932861,
+        1.0,
         0.23999999463558198,
         1.0
     ],
-    "TimeSinceLastDealCompleted": 949,
-    "TimeSinceLastDealOffered": 126,
-    "OfferedDeals": 5,
-    "CompletedDeals": 4,
-    "IsContractOffered": true,
+    "TimeSinceLastDealCompleted": 895,
+    "TimeSinceLastDealOffered": 1141,
+    "OfferedDeals": 12,
+    "CompletedDeals": 10,
+    "IsContractOffered": false,
     "OfferedContract": {
-        "Payment": 305.0,
+        "Payment": 0.0,
         "Products": {
-            "entries": [
-                {
-                    "ProductID": "granddaddypurple",
-                    "Quality": 1,
-                    "Quantity": 4
-                }
-            ]
+            "entries": []
         },
-        "DeliveryLocationGUID": "98db7f2d-6dbd-4bd3-b2f7-6e42423d3a23",
+        "DeliveryLocationGUID": "",
         "DeliveryWindow": {
-            "IsEnabled": true,
-            "WindowStartTime": 0,
-            "WindowEndTime": 0
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
         },
-        "Expires": true,
-        "ExpiresAfter": 1,
+        "Expires": false,
+        "ExpiresAfter": 0,
         "PickupScheduleIndex": 0,
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 16,
-        "time": 1330
+        "elapsedDays": 23,
+        "time": 1413
     },
-    "TimeSincePlayerApproached": 1016376,
-    "TimeSinceInstantDealOffered": 1016376,
+    "TimeSincePlayerApproached": 1025317,
+    "TimeSinceInstantDealOffered": 1025317,
     "HasBeenRecommended": false
 }

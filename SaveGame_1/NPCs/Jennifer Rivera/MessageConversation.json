@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 5,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1678714364,
+            "Text": "Hey, I need 3x Dream Slime. I'll pay <color=#46CB4F>$205</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1039575923,
+            "Text": "How about 3x Dream Slime for $235?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2068114206,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1246694714,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 128004300,
+            "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1902125945,
+            "Text": "Hey, can I get 4x Dream Slime? I'll pay <color=#46CB4F>$280</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1233751638,
+            "Text": "How about 4x Dream Slime for $360?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 560190148,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1253944158,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1881932853,
+            "Text": "Great, I'll meet you <b>behind Thrifty threads</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

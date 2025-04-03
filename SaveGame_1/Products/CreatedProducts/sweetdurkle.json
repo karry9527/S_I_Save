@@ -1,0 +1,41 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "Name": "Sweet Durkle",
+    "ID": "sweetdurkle",
+    "DrugType": 0,
+    "Properties": [
+        "paranoia",
+        "sneaky",
+        "sedating",
+        "caloriedense",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 106,
+            "g": 99,
+            "b": 78,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 125,
+            "g": 103,
+            "b": 104,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 115,
+            "g": 101,
+            "b": 91,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 84,
+            "g": 79,
+            "b": 62,
+            "a": 255
+        }
+    }
+}

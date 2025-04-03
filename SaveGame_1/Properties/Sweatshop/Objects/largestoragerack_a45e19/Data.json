@@ -13,14 +13,14 @@
     "Rotation": 0,
     "Contents": {
         "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"viagra\",\"Quantity\":20}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"viagra\",\"Quantity\":20}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"greencrack\",\"Quantity\":19,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"extralonglifesoil\",\"Quantity\":1}",
-            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"sourdiesel\",\"Quantity\":9,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"dreamslime\",\"Quantity\":1,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"longlifesoil\",\"Quantity\":2}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"greencrack\",\"Quantity\":8,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"viagra\",\"Quantity\":20}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"viagra\",\"Quantity\":1}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"lowqualitypseudo\",\"Quantity\":7,\"Quality\":\"Poor\"}"
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"donut\",\"Quantity\":20}"
         ]
     }
 }

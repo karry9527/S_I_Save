@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "34d9bdf5-0934-45ec-98d2-0c4188bb4b4c",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Mick",
+    "Description": "Mick has requested a delivery of 3x Dream Slime behind Sauerkraut Supreme pizzeria for $305.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 24,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f14",
+            "Name": "3x Dream Slime, Behind Sauerkraut Supreme Pizzeria",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "d7a1ac26-77c2-42f3-aa82-bee1f6a99cb9",
+    "Payment": 305.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "dreamslime",
+                "Quality": 1,
+                "Quantity": 3
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 23,
+        "Time": 1937
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "GUID": "5b04d373-99a1-4573-b7c3-e1426eb307ed",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Beth",
+    "Description": "Beth has requested a delivery of 2x Stinky Cheese next to Bud's bar for $205.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 24,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f14",
+            "Name": "2x Stinky Cheese, Next to Bud's Bar",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+    "Payment": 205.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "stinkycheese",
+                "Quality": 1,
+                "Quantity": 2
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "7549f5e4-3702-4890-aabf-a9a170cdf15b",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f14",
+        "ElapsedDays": 23,
+        "Time": 2112
+    }
+}

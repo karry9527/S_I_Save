@@ -66,5 +66,8 @@
         "b": 0.0,
         "a": 0.0
     },
-    "Tattoos": []
+    "Tattoos": [
+        "Avatar/Layers/Tattoos/Face/Face_Sword",
+        "Avatar/Layers/Tattoos/Chest/Chest_DeadFace"
+    ]
 }
