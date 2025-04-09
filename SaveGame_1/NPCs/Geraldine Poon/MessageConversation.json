@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 4,
-    "Read": false,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 0,
+    "Read": true,
     "MessageHistory": [
         {
+            "Sender": 0,
+            "MessageID": 1095278185,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
             "Sender": 1,
-            "MessageID": -390262416,
-            "Text": "Need me 6x Stinky Cheese! I'll pay <color=#46CB4F>$555</color> yeah??",
+            "MessageID": -1259532813,
+            "Text": "Good!! I'll see u <b>next to Bud's bar</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2059251876,
+            "Text": "I'm after 4x Dream Slime. I can pay <color=#46CB4F>$510</color> for it Deal??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 724829107,
-            "Text": "How about 6x Stinky Cheese for $585?",
+            "MessageID": -1282111826,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -364652319,
+            "Text": "Good!! I'll see u <b>at the north waterfront</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1139194100,
+            "Text": "U got 5x Dream Slime??? I'll pay <color=#46CB4F>$640</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -238150860,
+            "Text": "How about 5x Dream Slime for $670?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1696955081,
-            "Text": "hmmmmm FINE. When?",
+            "MessageID": -1758786195,
+            "Text": "OK FINE! What time????",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1741328980,
-            "Text": "Night",
+            "MessageID": 1934183433,
+            "Text": "Afternoon",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 288459837,
-            "Text": "Good!! I'll see u <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -933163103,
-            "Text": "U got 6x Stinky Cheese??? I'll pay <color=#46CB4F>$555</color> for it. DEAL?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -172717830,
-            "Text": "How about 6x Stinky Cheese for $595?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1789644900,
-            "Text": "Arghh fine. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1882110569,
-            "Text": "Night",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -821810004,
-            "Text": "Good!! I'll see u <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": -9656179,
+            "Text": "Good!! I'll see u <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         }
     ],

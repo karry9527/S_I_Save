@@ -1,7 +1,7 @@
 {
     "DataType": "TrashGeneratorData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
+    "GameVersion": "0.3.3f15",
     "GUID": "80a65417-5a4b-4cbb-a14c-5ca99328d071",
     "GeneratedItems": [
         "15a7c687-65d5-451a-b528-fc2366c31c3f",
@@ -39,9 +39,7 @@
         "f59735a8-afa9-4940-8452-bdb82fc23367",
         "8521a6d5-21e3-4e9d-a8f0-4d64910304e8",
         "1b9db18d-80a6-4342-8ce2-30112f473b5e",
-        "bddfaacb-1077-41e9-8e74-536fa6846030",
         "35b8f4ed-f7eb-433d-89e6-525efd712f1d",
-        "75bbf02b-3f8e-4bc7-86bf-6d7ee19734a5",
         "4f66d6f6-4742-4910-9f3b-69b153f5f6b3",
         "56078edf-0a45-432b-9d4e-99a9ba5fa758",
         "d0840fcb-39df-4304-9aa3-d2e2ce4bf256",
@@ -69,7 +67,6 @@
         "d5120437-4304-4e97-a387-735d48eaa1a4",
         "3fed73ea-4eaf-485b-be18-14a41055cda2",
         "7caf94d0-7451-498e-999c-acba3ab27deb",
-        "50912e66-9da3-48ca-bd4e-ca53dedda19f",
         "d13ae88e-0005-4b76-98a9-5294e5d2c2f4",
         "1d962d95-618b-4892-94e0-2712017a651c",
         "24336f4e-ec61-4599-b231-567d990620ea",
@@ -78,10 +75,8 @@
         "435740cb-8c28-4e1b-b5b2-24b2ac0384a2",
         "d830ebd5-e18e-405b-bb9d-e95e98e88528",
         "2c61b85f-a238-43a2-a216-64fdbc494a75",
-        "f5eda774-c84f-4ea0-baf6-e5a3ce5aad3a",
         "7ce6735d-0d32-4d6c-b05b-b8f1779e1f12",
         "ab7759ce-460f-44bc-a8de-42daa798af2b",
-        "cfae70d1-f7fd-4450-b5a7-c239cadf60c7",
         "1bf9bde5-dc6d-46b6-8b43-7d0d73eb3e7e",
         "a6d7ea4b-ead9-42a8-8ad5-a07dbccd7d06",
         "451b9fdc-dbf6-4c2a-a116-6db7e264f978",
@@ -91,8 +86,13 @@
         "339b0ee3-5266-470c-90fa-834ca634029a",
         "76fc70b4-142a-4fdc-a759-7428d5ae498e",
         "a7765e79-25eb-4e81-bafc-bb467403bc92",
-        "4dc28529-2585-4f30-a402-a4931e1427d7",
         "200a38eb-c205-490c-bde9-e81ef841e508",
-        "5951af4c-7eb2-4abb-8147-676966182c2e"
+        "afce67fb-3bfb-490b-8020-3ae231beabc7",
+        "40a1d872-cafc-4dfe-a6ef-9a79f5700dd5",
+        "5264832e-ccd6-4cde-8dee-6c64d6b01eed",
+        "2ee82c4f-61d3-4732-8d8f-0f4b635b2dfc",
+        "8b2c64d5-b06b-4c09-9841-fceef86bcd05",
+        "689de4e5-49d4-4010-b0cc-577beef65862",
+        "1ac3470e-cc6a-47f1-b338-7d65c697f691"
     ]
 }

@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 7,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -362466464,
+            "Text": "Hey, I need 5x Stinky Cheese. I'll pay <color=#46CB4F>$435</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1459373575,
+            "Text": "How about 5x Stinky Cheese for $565?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 710953592,
+            "Text": "No thanks. I'll just look elsewhere",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 389138165,
+            "Text": "Hey, if you got 5x Dream Slime I'll pay <color=#46CB4F>$450</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 406222111,
+            "Text": "How about 5x Dream Slime for $550?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1752426326,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1340264327,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 96034885,
+            "Text": "Great, I'll meet you <b>behind the auto shop</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

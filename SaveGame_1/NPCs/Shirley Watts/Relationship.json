@@ -1,8 +1,8 @@
 {
     "DataType": "RelationshipData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "RelationDelta": 2.2828500270843508,
+    "GameVersion": "0.3.3f15",
+    "RelationDelta": 2.509999990463257,
     "Unlocked": true,
     "UnlockType": 0
 }

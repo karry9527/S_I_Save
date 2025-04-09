@@ -1,16 +1,10 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 5,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": 73806462,
-            "Text": "I need a dead drop:\n10x Green Crack Seed",
-            "EndOfChain": false
-        },
         {
             "Sender": 1,
             "MessageID": -1924828266,
@@ -62,6 +56,12 @@
         {
             "Sender": 1,
             "MessageID": -1416044372,
+            "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -690657825,
             "Text": "Agreed. I'll be next to the mayor's house for the next 6 hours.",
             "EndOfChain": true
         }

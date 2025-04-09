@@ -1,28 +1,10 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 8,
-    "Read": false,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 4,
+    "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 0,
-            "MessageID": -2018898236,
-            "Text": "I need a dead drop:\n8x Low-Quality Pseudo",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -718829116,
-            "Text": "Working on it. Should be ready in around 4 hours",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1987068150,
-            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -1394961543,
@@ -63,6 +45,24 @@
             "Sender": 1,
             "MessageID": -2057549944,
             "Text": "Hey, that drop is ready in the alleyway behind the grocery store",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2131907504,
+            "Text": "I'm still currently waiting on a payment of <color=#46CB4F>$454</color>. Please deposit it into my stash box when you've got a chance.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2050130779,
+            "Text": "I've received $454 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -170723732,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
             "EndOfChain": true
         }
     ],

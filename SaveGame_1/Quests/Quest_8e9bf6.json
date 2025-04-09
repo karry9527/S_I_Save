@@ -1,7 +1,7 @@
 {
     "DataType": "QuestData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
+    "GameVersion": "0.3.3f15",
     "GUID": "8e9bf6c1-9c89-4abe-9ac2-f01602e03404",
     "State": 0,
     "IsTracked": false,
@@ -11,7 +11,7 @@
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
         "DataVersion": 0,
-        "GameVersion": "0.3.3f14",
+        "GameVersion": "0.3.3f15",
         "ElapsedDays": 0,
         "Time": 0
     },
@@ -19,21 +19,21 @@
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Use the management clipboard to assign the packager to a bed",
             "State": 0
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Assign a packaging station to the packager",
             "State": 0
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Place cash in the briefcase on the packager's bed",
             "State": 0
         }

@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 1,
-    "Read": false,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 9,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -886273844,
-            "Text": "You got 2x Stinky Cheese? I'll pay <color=#46CB4F>$175</color> for it",
+            "MessageID": 1886129373,
+            "Text": "You got 2x Dream Slime? I'll pay <color=#46CB4F>$180</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 49561155,
-            "Text": "How about 2x Stinky Cheese for $205?",
+            "MessageID": -973432995,
+            "Text": "How about 2x Dream Slime for $220?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 313012073,
-            "Text": "I guess that's fine. When?",
+            "MessageID": -724651377,
+            "Text": "Alright then. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1662265338,
-            "Text": "Morning",
+            "MessageID": 1195684394,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1420228444,
-            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": 916033197,
+            "Text": "Great, I'll meet you <b>next to Bud's bar</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1830787890,
-            "Text": "Hey, can I get 2x Stinky Cheese? I'll pay <color=#46CB4F>$175</color>",
+            "MessageID": 587223574,
+            "Text": "Hey, can I get 2x Dream Slime? I'll pay <color=#46CB4F>$180</color>",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -168798801,
-            "Text": "How about 2x Stinky Cheese for $205?",
+            "MessageID": -641621335,
+            "Text": "How about 2x Dream Slime for $190?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -1070421364,
-            "Text": "Ok. What time you wanna meet?",
+            "MessageID": -999517620,
+            "Text": "Hmm ok. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1783594039,
-            "Text": "Morning",
+            "MessageID": 1556294145,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1428249730,
-            "Text": "Great, I'll meet you <b>next to Bud's bar</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": -970020299,
+            "Text": "Great, I'll meet you <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

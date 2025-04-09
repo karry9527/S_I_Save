@@ -1,7 +1,7 @@
 {
     "DataType": "QuestData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
+    "GameVersion": "0.3.3f15",
     "GUID": "c7c962c4-e486-4161-95e2-49ba01f49e49",
     "State": 2,
     "IsTracked": true,
@@ -11,7 +11,7 @@
     "ExpiryDate": {
         "DataType": "GameDateTimeData",
         "DataVersion": 0,
-        "GameVersion": "0.3.3f14",
+        "GameVersion": "0.3.3f15",
         "ElapsedDays": 0,
         "Time": 0
     },
@@ -19,35 +19,35 @@
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Use the management clipboard to assign the botanist to a bed",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Assign a supplies source to the botanist",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Assign a pot or grow tent to the botanist",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Set the pot/grow tent destination",
             "State": 2
         },
         {
             "DataType": "QuestEntryData",
             "DataVersion": 0,
-            "GameVersion": "0.3.3f14",
+            "GameVersion": "0.3.3f15",
             "Name": "Place cash in the briefcase on the botanist's bed",
             "State": 2
         }

@@ -1,9 +1,9 @@
 {
     "Items": [
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"dreamslime\",\"Quantity\":13,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"greencrack\",\"Quantity\":7,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"granddaddypurple\",\"Quantity\":10,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
-        "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"\",\"Quantity\":0}",
-        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f14\",\"ID\":\"granddaddypurple\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}"
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"dreamslime\",\"Quantity\":20,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"stinkycheese\",\"Quantity\":2,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"dreamslime\",\"Quantity\":17,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"stinkycheese\",\"Quantity\":12,\"Quality\":\"Premium\",\"PackagingID\":\"baggie\"}",
+        "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.3f15\",\"ID\":\"dreamslime\",\"Quantity\":7,\"Quality\":\"Standard\",\"PackagingID\":\"baggie\"}"
     ]
 }

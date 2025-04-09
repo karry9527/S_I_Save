@@ -1,0 +1,30 @@
+{
+    "DataType": "CleanerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "james_anderson",
+    "AssignedProperty": "bungalow",
+    "FirstName": "James",
+    "LastName": "Anderson",
+    "IsMale": true,
+    "AppearanceIndex": 3,
+    "Position": {
+        "x": -168.98524475097657,
+        "y": -3.995699167251587,
+        "z": 111.93462371826172
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "551a103a-28fa-4af0-862a-2d48d93afe9a",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

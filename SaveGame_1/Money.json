@@ -1,9 +1,9 @@
 {
     "DataType": "MoneyData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "OnlineBalance": 12452.150390625,
-    "Networth": 47672.75,
-    "LifetimeEarnings": 78820.0,
-    "WeeklyDepositSum": 4071.20654296875
+    "GameVersion": "0.3.3f15",
+    "OnlineBalance": 8334.27734375,
+    "Networth": 49815.3671875,
+    "LifetimeEarnings": 124812.5,
+    "WeeklyDepositSum": 10000.0
 }

@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 7,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 14,
     "Read": true,
     "MessageHistory": [
         {
+            "Sender": 1,
+            "MessageID": -609085590,
+            "Text": "Ay bro you got 4x Stinky Cheese? I'll pay <color=#46CB4F>$350</color> for it",
+            "EndOfChain": true
+        },
+        {
             "Sender": 0,
-            "MessageID": -765177400,
+            "MessageID": -1533804522,
+            "Text": "How about 4x Stinky Cheese for $440?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1330773738,
+            "Text": "Alright dude. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1593765508,
             "Text": "Afternoon",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 926119890,
-            "Text": "Cheers bro, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": -2070406655,
+            "Text": "Sick as, I'll meet you <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 167272117,
-            "Text": "Whats up bro, I'm after 5x Granddaddy Purple. I can pay <color=#46CB4F>$365</color> for it.",
+            "MessageID": -1395655028,
+            "Text": "Ay bro you got 4x Dream Slime? I'll pay <color=#46CB4F>$365</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 128162897,
-            "Text": "Sure thing",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1573427226,
-            "Text": "Sweet as homie, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1011138846,
-            "Text": "Hey dog, I need 4x Stinky Cheese. I'll pay <color=#46CB4F>$350</color>. Deal?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -906974483,
-            "Text": "How about 4x Stinky Cheese for $450?",
+            "MessageID": -1041869695,
+            "Text": "How about 4x Dream Slime for $405?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1875281965,
+            "MessageID": -1129353646,
             "Text": "Ok bro. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1804378418,
+            "MessageID": 640625181,
             "Text": "Afternoon",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 343476866,
-            "Text": "Sick as, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": -627750447,
+            "Text": "Sweet as homie, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         }
     ],

@@ -1,8 +1,8 @@
 {
     "DataType": "CustomerData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "Dependence": 0.5288999676704407,
+    "GameVersion": "0.3.3f15",
+    "Dependence": 1.0,
     "PurchaseableProducts": [
         "dreamslime",
         "stinkycheese"
@@ -12,10 +12,10 @@
         0.6600000262260437,
         0.25999999046325686
     ],
-    "TimeSinceLastDealCompleted": 978,
-    "TimeSinceLastDealOffered": 1133,
-    "OfferedDeals": 17,
-    "CompletedDeals": 16,
+    "TimeSinceLastDealCompleted": 856,
+    "TimeSinceLastDealOffered": 937,
+    "OfferedDeals": 23,
+    "CompletedDeals": 22,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -34,10 +34,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 23,
+        "elapsedDays": 30,
         "time": 1420
     },
-    "TimeSincePlayerApproached": 1025315,
-    "TimeSinceInstantDealOffered": 1025315,
+    "TimeSincePlayerApproached": 1034119,
+    "TimeSinceInstantDealOffered": 1034119,
     "HasBeenRecommended": false
 }

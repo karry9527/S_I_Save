@@ -1,68 +1,68 @@
 {
     "DataType": "MSGConversationData",
     "DataVersion": 0,
-    "GameVersion": "0.3.3f14",
-    "ConversationIndex": 3,
-    "Read": false,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 11,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1758447757,
-            "Text": "Hey, if you got 4x Dream Slime I'll pay <color=#46CB4F>$365</color> for it. Deal?",
+            "MessageID": 1623491648,
+            "Text": "Hey, have you got 5x Stinky Cheese? I'll pay <color=#46CB4F>$435</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1197733250,
-            "Text": "How about 4x Dream Slime for $445?",
+            "MessageID": 599792904,
+            "Text": "How about 5x Stinky Cheese for $565?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -374277801,
+            "MessageID": -908725671,
             "Text": "I guess that's fine. When?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 418277812,
+            "MessageID": 84084532,
             "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 230626794,
-            "Text": "Great, I'll meet you <b>in the west construction site</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": 320886138,
+            "Text": "Great, I'll meet you <b>on the wharf west of the warehouse</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -837891984,
-            "Text": "Hello, I'm after 4x Dream Slime. I can pay <color=#46CB4F>$365</color> for it.",
+            "MessageID": -443300163,
+            "Text": "Hey, I need 5x Stinky Cheese. I'll pay <color=#46CB4F>$435</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 663911713,
-            "Text": "How about 4x Dream Slime for $405?",
+            "MessageID": 1515051634,
+            "Text": "How about 5x Stinky Cheese for $500?",
             "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": -2040605470,
-            "Text": "Ok fine. What time?",
+            "MessageID": -2008045289,
+            "Text": "I guess that's fine. When?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 492069345,
-            "Text": "Morning",
+            "MessageID": -919399911,
+            "Text": "Night",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1270753005,
-            "Text": "Great, I'll meet you <b>under the west bridge</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": 766570371,
+            "Text": "Great, I'll meet you <b>on the wharf west of the warehouse</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

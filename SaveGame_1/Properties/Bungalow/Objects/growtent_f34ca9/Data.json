@@ -1,0 +1,31 @@
+{
+    "DataType": "PotData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "f34ca924-e76b-49f4-ac9e-f77b0bfc4503",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"growtent\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 1.0,
+        "y": 0.0
+    },
+    "Rotation": 0,
+    "SoilID": "extralonglifesoil",
+    "SoilLevel": 20.0,
+    "RemainingSoilUses": 2,
+    "WaterLevel": 1.4687520265579224,
+    "AppliedAdditives": [
+        "Growing/Fertilizer/Fertilizer_Additive"
+    ],
+    "PlantData": {
+        "DataType": "PlantData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "SeedID": "granddaddypurpleseed",
+        "GrowthProgress": 0.5678995847702026,
+        "YieldLevel": 1.0,
+        "QualityLevel": 0.800000011920929,
+        "ActiveBuds": []
+    }
+}
